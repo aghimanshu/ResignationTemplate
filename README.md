@@ -1,5 +1,4 @@
 # ResignationTemplate
-Resignation Template page
 
 # 🎁 Ultimate Resignation Reveal
 
