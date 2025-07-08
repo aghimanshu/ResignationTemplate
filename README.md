@@ -1,0 +1,2 @@
+# ResignationTemplate
+Resignation Template page
